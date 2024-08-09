@@ -65,4 +65,4 @@ RUN pip install pycryptodome
 RUN pip install opencv-python
 
 
-RUN bash start
+CMD python3 -m DAXXMUSIC
