@@ -65,4 +65,4 @@ RUN pip install pycryptodome
 RUN pip install opencv-python
 
 
-CMD bash start
+RUN bash start
